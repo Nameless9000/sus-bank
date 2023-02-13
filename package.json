@@ -1,0 +1,11 @@
+{
+  "name": "sus-bank",
+  "version": "2.0.0",
+  "description": "A suspicious bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nameless9000",
+  "license": "MIT"
+}
