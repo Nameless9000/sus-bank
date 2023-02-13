@@ -38,7 +38,7 @@ class App {
   /**
    * Make the express app start listening
    */
-  listen(): void {
+  public listen(): void {
     this.app.listen(this.port, () => {
       console.log(
         `Express server started, listening on http://127.0.0.1:${this.port}`
