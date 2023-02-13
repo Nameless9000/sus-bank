@@ -9,5 +9,5 @@ A bit sus
 - [ ] Login Page
 - [ ] Home Page
 - [ ] Money System
-- [ ] Tranfer Feature
+- [ ] Transfer Feature
 - [ ] Payment OAuth
